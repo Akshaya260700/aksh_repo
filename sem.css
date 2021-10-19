@@ -1,0 +1,13 @@
+h1{
+
+background:purple;
+animation-name: example;
+animation-duration: 4s;
+}
+p.hi{
+	text-align: left;
+}
+a.hello{
+	text-align: right;
+}
+
